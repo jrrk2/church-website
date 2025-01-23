@@ -7,7 +7,7 @@ const Header = () => {
         Girton Baptist Church Menu
       </h1>
       <p className='font-normal text-lg md:text-xl lg:text-2xl'>
-        The devotional of Girton Baptist Church Church
+        The devotional of Girton Baptist Church
       </p>
     </header>
   );

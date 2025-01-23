@@ -2,7 +2,7 @@ import Head from 'next/head';
 import React from 'react';
 
 function HeadElement({
-  pageTitle = "Girton Baptist Church Church",
+  pageTitle = "Girton Baptist Church",
   description = 'Raising sons...',
   noIndex = false,
   siteLink = 'https://tfh-website.netlify.app/',
