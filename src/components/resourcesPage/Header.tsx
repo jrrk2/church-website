@@ -7,7 +7,7 @@ const Header = () => {
         Our Resources
       </h1>
       <p className='font-normal text-lg md:text-xl lg:text-2xl'>
-        Access to the Father&apos;s Menu, Livestream, Recent Messages, Podcast.
+        Access to Girton Baptist Church Menu, Livestream, Recent Messages, Podcast.
       </p>
     </header>
   );

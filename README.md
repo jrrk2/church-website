@@ -1,5 +1,5 @@
 # church-website
-Church website Template that was built for The Father's House Church, Akute
+Church website Template that was built for Girton Baptist Church Church, Akute
 
 ## Description
 App was built with NextJS, Tailwind, Typescript and Redux Toolkit. Tools like Forkik were also utilized to create the application

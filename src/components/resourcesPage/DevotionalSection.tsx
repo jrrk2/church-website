@@ -18,13 +18,13 @@ const DevotionalSection = () => {
         <Image src={DevotionalImage} alt='Devotional' />
         <div className='items-center flex flex-col lg:items-start'>
           <h2 className='text-white text-[35px] md:text-[48px] lg:text-[60px] font-bold mb-[29px]'>
-            The Father’s Menu
+            Church Menu
           </h2>
 
           <p className='text-white font-normal md:text-xl lg:text-2xl max-w-[672px] mb-[50px]'>
             Just as we are being fed daily by our earthly father, our heavenly father also
             feeds us daily through some carefully selected meals (as word of God) to bless
-            us daily. Have you had your meal from the Father today?
+            us daily. Have you had your meal from the Lord today?
           </p>
 
           <Link href='/devotional'>

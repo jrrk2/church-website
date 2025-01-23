@@ -39,7 +39,7 @@ const DevotionalSection = () => {
           ) : devotional && Object.keys(devotional).length ? (
             <>
               <h2 className='text-white text-[35px] md:text-[48px] lg:text-[60px] font-bold mb-3'>
-                The Father’s Menu
+                Church Menu
               </h2>
               <p className='text-secondary font-bold text-lg lg:text-2xl mb-4'>
                 {new Date(devotional.ditto).toDateString()}

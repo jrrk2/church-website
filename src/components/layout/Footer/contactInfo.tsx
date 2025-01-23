@@ -12,18 +12,18 @@ interface Info {
 const contactInfo: Info[] = [
   {
     icon: Location,
-    text: '90, Ojodu Akute Road, Ajayi Farms Bus-Stop.',
+    text: '103 High Street, Girton, CB3 0QQ',
     alt: 'Address',
   },
   {
     icon: Email,
-    text: 'churchadmin@tfhconline.net',
+    text: 'pastor@girtonbaptistchurch.org.uk',
     type: 'email',
     alt: 'Email',
   },
   {
     icon: Phone,
-    text: '+234 805 669 9920',
+    text: '+44 1223 279289',
     type: 'phone',
     alt: 'Phone',
   },

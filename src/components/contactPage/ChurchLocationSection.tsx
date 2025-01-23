@@ -9,10 +9,10 @@ const ChurchLocationSection = () => {
         Find the closest centre to you
       </h2>
       <p className='text-lg lg:text-2xl text-center font-medium mb-[47px]'>
-        Let’s help you find the Father’s House Church around you.
+        Let’s help you find Girton Baptist Church around you.
       </p>
-      <Link href='/church-locations'>
-        <Button>Find closest branch</Button>
+      <Link href='/church-location'>
+        <Button>Find Chapel</Button>
       </Link>
     </div>
   );

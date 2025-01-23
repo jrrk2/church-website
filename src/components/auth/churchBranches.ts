@@ -1,26 +1,18 @@
-interface Branches {
+interface Locations {
   name: string;
   address: string;
 }
 
-const churchBranches: Branches[] = [
+const meetingLocations: Locations[] = [
   {
-    name: 'HEADQUARTERS',
-    address: '90, Ojodu-Akute Road, Ajayi Farm B/Stop. Akute',
+    name: 'Chapel',
+    address: '103 High Street, Girton, CB3 0QQ (Sunday worship)',
   },
   {
-    name: 'MOWE CHURCH',
+    name: 'Abbeyfield',
     address:
-      '3, Transformation Avenue, Opposite Omapet Filling Station, Ofada Road Mowe',
-  },
-  {
-    name: 'IBADAN CHURCH',
-    address: 'Ologuneru, Beside Ekerin Junction. New Eleyele, Ibadan',
-  },
-  {
-    name: 'AREPO CHURCH',
-    address: '1/3 Eruobodo Plaza, Journalist Estate Road, Arepo',
+      'Girton Green, CB3 0GQ (monthly bible study)',
   },
 ];
 
-export default churchBranches;
+export default meetingLocations;
